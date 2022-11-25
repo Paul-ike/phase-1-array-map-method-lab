@@ -18,3 +18,15 @@ describe('index.js', function () {
     });
   });
 });
+
+
+// function titleCased(array) {
+//   for (const string of array) {
+//     let splitString = string.split(' ')
+//     let upperCaseWord = splitString.map(function (word) {
+//       return word[0][0].toUpperCase() + word.slice(1)
+//     })
+//     console.log(upperCaseWord.join(' '));
+//   }
+// }
+// console.log(titleCased(tutorials));
